@@ -1,4 +1,4 @@
-# TodoList-A Amazing App
+# TodoList-An Amazing App
 
 A new Flutter application.
 
